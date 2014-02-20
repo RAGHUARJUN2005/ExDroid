@@ -9,6 +9,8 @@ Saves each layer in the active document to a PNG file named after its layers in 
 
 IMPORTANT: Your document has to be planned as <b>mdpi</b>.
 
+HINT: Work with paths!
+
 _Disclaimer:_ Please use script at your own risk. I have not tested it thoroughly enough to guarantee that it is in fact bulletproof.
 
 ## Requirement
